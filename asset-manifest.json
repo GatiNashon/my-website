@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.da18a183.css",
+    "main.js": "/my-website/static/js/main.307adf62.js",
+    "static/media/project3.jpg": "/my-website/static/media/project3.e6518f425189b7dc67b8.jpg",
+    "static/media/project1.jpg": "/my-website/static/media/project1.c141bd9c8d5651b472a4.jpg",
+    "static/media/gati.jpg": "/my-website/static/media/gati.3fbf7d3e12e3a4302f9f.jpg",
+    "static/media/project2.jpg": "/my-website/static/media/project2.c69624a7b797ac590745.jpg",
+    "static/media/activity1.jpg": "/my-website/static/media/activity1.6f67d7685e7c491cfcb1.jpg",
+    "static/media/neema.jpg": "/my-website/static/media/neema.e9ce4d4e2ea68dca54aa.jpg",
+    "static/media/activity2.jpg": "/my-website/static/media/activity2.3d0e9f6db0fa467ccdb5.jpg",
+    "static/media/hero.jpg": "/my-website/static/media/hero.3d0e9f6db0fa467ccdb5.jpg",
+    "static/media/nashon.jpg": "/my-website/static/media/nashon.f43bf195bc9a8f5c1cb3.jpg",
+    "static/media/activity3.jpg": "/my-website/static/media/activity3.a5f4992c17cf4b39ce91.jpg",
+    "static/media/mono.jpg": "/my-website/static/media/mono.313a83a6cd02b5165050.jpg",
+    "static/media/logo.jpg": "/my-website/static/media/logo.838f0a1c661031cb11fd.jpg",
+    "index.html": "/my-website/index.html",
+    "main.da18a183.css.map": "/my-website/static/css/main.da18a183.css.map",
+    "main.307adf62.js.map": "/my-website/static/js/main.307adf62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da18a183.css",
+    "static/js/main.307adf62.js"
+  ]
+}
