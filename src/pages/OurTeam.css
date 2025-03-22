@@ -1,0 +1,53 @@
+/* Team Page Styles */
+.team-container {
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 20px;
+  }
+  
+  .team-container h1 {
+    color: #007bff;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .team-container p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 30px;
+  }
+  
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .team-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .team-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .position {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .description {
+    color: #666;
+    font-size: 0.9rem;
+  }
+  
